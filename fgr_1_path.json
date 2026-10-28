@@ -1,0 +1,2809 @@
+{
+  "selectedIndex": 0,
+  "segments": [
+    {
+      "name": "SJC BL FGR",
+      "path": {
+        "campaignName": "Strawberry Jam Collab - Beginner",
+        "chapterName": "Forest Path",
+        "chapterDisplayName": "Forest Path",
+        "chapterSID": "StrawberryJam2021/1-Beginner/asteriskblue",
+        "chapterUID": "StrawberryJam2021/1-Beginner/asteriskblue/Normal",
+        "sideName": "A-Side",
+        "sideNameDecoration": "",
+        "checkpoints": [
+          {
+            "name": "FP-Room",
+            "abbreviation": "FP-R",
+            "roomCount": 19,
+            "gameplayRoomCount": 19,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-12",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-12",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-13",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-13",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-14",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-14",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-15",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-15",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-17",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-17",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-18",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-18",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-19",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-19",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-20",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/asteriskblue/Normal:a-20",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "AC-Room",
+            "abbreviation": "AC-R",
+            "roomCount": 8,
+            "gameplayRoomCount": 8,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/cellularAutomaton/Normal:08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "LL-Room",
+            "abbreviation": "LL-R",
+            "roomCount": 17,
+            "gameplayRoomCount": 17,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "c-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-12",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-12",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-13",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-13",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-14",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-14",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-15",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-15",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-16",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-16",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-17",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/coffe/Normal:c-17",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "CS-Room",
+            "abbreviation": "CS-R",
+            "roomCount": 7,
+            "gameplayRoomCount": 7,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/hyperlife/Normal:a-07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "SIB-Room",
+            "abbreviation": "SIB-R",
+            "roomCount": 9,
+            "gameplayRoomCount": 9,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/NotYourBadeline/Normal:a_09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "IM'ADYI-Room",
+            "abbreviation": "IM'ADYI-R",
+            "roomCount": 10,
+            "gameplayRoomCount": 10,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "00- intro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:00- intro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "01- Crusher",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:01- Crusher",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "02- Bait N' Switch",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:02- Bait N' Switch",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "03- Uberjump",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:03- Uberjump",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "04- Head Trauma",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:04- Head Trauma",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "05- Boing",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:05- Boing",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "06- Bubbles",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:06- Bubbles",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "07- Falling Cannon",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:07- Falling Cannon",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "08- U Turn",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:08- U Turn",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "09- Fin",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Bing_Over_Google/Normal:09- Fin",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "CC-Room",
+            "abbreviation": "CC-R",
+            "roomCount": 13,
+            "gameplayRoomCount": 13,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "5",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:5",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "ber4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:ber4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "6",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:6",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "7",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:7",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "8",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:8",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "9",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:9",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "11-c",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:11-c",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "12",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Ceph/Normal:12",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "OTC-Room",
+            "abbreviation": "OTC-R",
+            "roomCount": 24,
+            "gameplayRoomCount": 24,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "12",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:12",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "13",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:13",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "14",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:14",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "15",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:15",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "16",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:16",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteA-1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteA-1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteA-2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteA-2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteA-3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteA-3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteB-1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteB-1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteB-2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteB-2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteB-3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteB-3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "RouteB-4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:RouteB-4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "17",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/CoupCritik/Normal:17",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "TR-Room",
+            "abbreviation": "TR-R",
+            "roomCount": 11,
+            "gameplayRoomCount": 11,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:a_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:a_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:a_03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:b_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:b_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b_03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:b_03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b_04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:b_04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b_05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:b_05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:c_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:c_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c_03_end",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Eclipse/Normal:c_03_end",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "PFA-Room",
+            "abbreviation": "PFA-R",
+            "roomCount": 27,
+            "gameplayRoomCount": 27,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "SS2-0",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-0",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-5b",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-5b",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "SS2-7",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:SS2-7",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "HUB",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:HUB",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-0",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-0",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-5",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-5",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-6",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-6",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-7",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-7",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Lab-Tele",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:Lab-Tele",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-0",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-0",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-3a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-3a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-5a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-5a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "WZ-Tele",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:WZ-Tele",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "FinalChallenge",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:FinalChallenge",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "ESCAPE",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:ESCAPE",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "HEART",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/frozenflygone/Normal:HEART",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "MS-Room",
+            "abbreviation": "MS-R",
+            "roomCount": 8,
+            "gameplayRoomCount": 8,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a_00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a_07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/joltik/Normal:a_07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "PA-Room",
+            "abbreviation": "PA-R",
+            "roomCount": 34,
+            "gameplayRoomCount": 34,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "intro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:intro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-04a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-04a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-06a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-06a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-07a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-07a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:a-10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:b-11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "bus",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:bus",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-intro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-intro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "c-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:c-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "end",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/mosscairn/Normal:end",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "RG-Room",
+            "abbreviation": "RG-R",
+            "roomCount": 10,
+            "gameplayRoomCount": 10,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "q00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "q09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Quinnigan/Normal:q09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "TR-Room",
+            "abbreviation": "TR-R",
+            "roomCount": 7,
+            "gameplayRoomCount": 7,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "skeleton_00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "skeleton_outro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/skeleton/Normal:skeleton_outro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "TS-Room",
+            "abbreviation": "TS-R",
+            "roomCount": 6,
+            "gameplayRoomCount": 6,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "4",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:4",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "5",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:5",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "6",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/snas/Normal:6",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "SO-Room",
+            "abbreviation": "SO-R",
+            "roomCount": 12,
+            "gameplayRoomCount": 12,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "heart",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Circumplex/Normal:heart",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "SV-Room",
+            "abbreviation": "SV-R",
+            "roomCount": 17,
+            "gameplayRoomCount": 17,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a02_b",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a02_b",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a09_b",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a09_b",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a10",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a10",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a11",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a11",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a12",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a12",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a13",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a13",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a13_b",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a13_b",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a14_Outro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Flagpole1up/Normal:a14_Outro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "AGFTS-Room",
+            "abbreviation": "AGFTS-R",
+            "roomCount": 13,
+            "gameplayRoomCount": 13,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "Intro A",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Intro A",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Intro B",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Intro B",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Double Vision",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Double Vision",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Waiting Room",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Waiting Room",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Timestop Intro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Timestop Intro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Shuffle",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Shuffle",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Timestop Intro Again",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Timestop Intro Again",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Stepping Stone",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Stepping Stone",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Fork",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Fork",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Seeded Berry",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Seeded Berry",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "Staircase",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:Staircase",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "End",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:End",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "End Cabin",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/HankyMueller/Normal:End Cabin",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "SO-Room",
+            "abbreviation": "SO-R",
+            "roomCount": 12,
+            "gameplayRoomCount": 12,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a-00",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-00",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-01z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-01z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-02y",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-02y",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-03y",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-03y",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-04z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-04z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-05z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-05z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-07z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-07z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-08z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-08z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-09z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-09z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-11z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-11z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-12z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-12z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-13z",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Jadeturtle/Normal:a-13z",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "DR-Room",
+            "abbreviation": "DR-R",
+            "roomCount": 11,
+            "gameplayRoomCount": 11,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "00 - Overpass",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:00 - Overpass",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "01 - Lockdown",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:01 - Lockdown",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "02 - Breadth",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:02 - Breadth",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "03 - Labyrinth",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:03 - Labyrinth",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "04 - Widdershins",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:04 - Widdershins",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "05 - Symmetry",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:05 - Symmetry",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "06 - Socket",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:06 - Socket",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "07 - Ferry",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:07 - Ferry",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "08 - Daedalus",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:08 - Daedalus",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "09 - Perpendicular",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:09 - Perpendicular",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "10 - Downfall",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/Owen-Shirrell/Normal:10 - Downfall",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "CC-Room",
+            "abbreviation": "CC-R",
+            "roomCount": 11,
+            "gameplayRoomCount": 11,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "a-01",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-01",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-04",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-04",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-05",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-05",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-06",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-06",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-07",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-07",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-08",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-08",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-02",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:b-02",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "a-09",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:a-09",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "b-03",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/voliver9/Normal:b-03",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Start",
+            "abbreviation": "BB-ST",
+            "roomCount": 5,
+            "gameplayRoomCount": 5,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp1_heartside_intro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp1_heartside_intro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp1_21_heartside_Bing_Over_Google",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp1_21_heartside_Bing_Over_Google",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp1_20_heartside_hyperlife",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp1_20_heartside_hyperlife",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp1_19_heartside_cellularAutomaton",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp1_19_heartside_cellularAutomaton",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp1_18_heartside_Eclipse",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp1_18_heartside_Eclipse",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Basin",
+            "abbreviation": "BB-BA",
+            "roomCount": 7,
+            "gameplayRoomCount": 7,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp2_checkpoint",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2_checkpoint",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2-17-heartside_NotYourBadeline",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2-17-heartside_NotYourBadeline",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2-16-heartside_snas",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2-16-heartside_snas",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2_15_heartside_frozenflygone_a",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2_15_heartside_frozenflygone_a",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2_15_heartside_frozenflygone_b",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2_15_heartside_frozenflygone_b",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2_15_heartside_frozenflygone_c",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2_15_heartside_frozenflygone_c",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp2_15_heartside_frozenflygone_d",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp2_15_heartside_frozenflygone_d",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Tranquility",
+            "abbreviation": "BB-TR",
+            "roomCount": 5,
+            "gameplayRoomCount": 5,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp3_checkpoint",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp3_checkpoint",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp3_14_heartside_asterisk",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp3_14_heartside_asterisk",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp3_13_heartside_skeleton",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp3_13_heartside_skeleton",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp3_12_heartside_coffe",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp3_12_heartside_coffe",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp3_11_heartside_joltik",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp3_11_heartside_joltik",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Jade",
+            "abbreviation": "BB-JA",
+            "roomCount": 4,
+            "gameplayRoomCount": 4,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp4_checkpoint",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp4_checkpoint",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp4_10_heartside_Hanky",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp4_10_heartside_Hanky",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp4_09_heartside_jadeturtle",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp4_09_heartside_jadeturtle",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp4_08_heartside_quinnigan",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp4_08_heartside_quinnigan",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Overgrowth",
+            "abbreviation": "BB-OV",
+            "roomCount": 7,
+            "gameplayRoomCount": 7,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp5_checkpoint",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_checkpoint",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_07_heartside_voliver9",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_07_heartside_voliver9",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_06_heartside_CoupCritik1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_06_heartside_CoupCritik1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_06_heartside_CoupCritik2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_06_heartside_CoupCritik2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_06_heartside_CoupCritik3",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_06_heartside_CoupCritik3",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_05_Flagpole1up_Heartside",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_05_Flagpole1up_Heartside",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp5_04_heartside_circumplex",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp5_04_heartside_circumplex",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          },
+          {
+            "name": "BB-Harbor",
+            "abbreviation": "BB-HA",
+            "roomCount": 6,
+            "gameplayRoomCount": 6,
+            "rooms": [
+              {
+                "ActualDebugRoomName": "cp6_checkpoint",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp6_checkpoint",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp6_03_heartside_awheyaway",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp6_03_heartside_awheyaway",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp6_02_heartside_Ceph",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp6_02_heartside_Ceph",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp6_03_heartside_Moss_1",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp6_03_heartside_Moss_1",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "cp6_03_heartside_Moss_2",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:cp6_03_heartside_Moss_2",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              },
+              {
+                "ActualDebugRoomName": "heartside_outro",
+                "debugRoomName": "StrawberryJam2021/1-Beginner/ZZ-HeartSide/Normal:heartside_outro",
+                "groupedRooms": [],
+                "customRoomName": null,
+                "isNonGameplayRoom": false,
+                "difficultyWeight": -1
+              }
+            ]
+          }
+        ],
+        "roomCount": 320,
+        "gameplayRoomCount": 320,
+        "ignoredRooms": [],
+        "trackWingedGolden": false,
+        "tier": {
+          "Sort": 8,
+          "Fraction": 0.5
+        },
+        "goldenPoints": -1,
+        "enduranceFactor": 3,
+        "endurancePower": 15
+      },
+      "sync_enabled": true,
+      "challenge_id": null,
+      "challenge_id_auto": null
+    }
+  ]
+}
